@@ -2975,9 +2975,9 @@ function setUniverse() {
   }
 }
 
-// 雪花开关
+// 雪花开关block默认开。none默认关
 if (localStorage.getItem("snow") == undefined) {
-  localStorage.setItem("snow", "none");
+  localStorage.setItem("snow", "block");
 }
 document.getElementById("snow").style.display = localStorage.getItem("snow");
 function setSnow() {
