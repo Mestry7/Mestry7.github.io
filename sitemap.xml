@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mestry7.github.io/posts/6d809aa9.html</loc>
+    
+    <lastmod>2025-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mestry7.github.io/posts/2013454d.html</loc>
     
     <lastmod>2025-07-19</lastmod>
@@ -78,10 +87,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://mestry7.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2025-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://mestry7.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <lastmod>2025-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://mestry7.github.io/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2025-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
