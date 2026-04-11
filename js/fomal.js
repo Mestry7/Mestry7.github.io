@@ -3166,9 +3166,9 @@ if (localStorage.getItem("blogbg") != undefined) {
 } else {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(/assets/bg/bg.jpg);
-    --darkmode-bg:url(/assets/bg/bg1.jpg);
+    --darkmode-bg:url(/assets/bg/bg2.jpg);
     --mobileday-bg: url(/assets/cat.jpg);
-    --mobilenight-bg: url(/assets/cover1.jpg);
+    --mobilenight-bg: url(/assets/cover2.jpg);
   }`;
 }
 // 切换背景主函数
