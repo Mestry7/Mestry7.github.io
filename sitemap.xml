@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mestry7.github.io/posts/153f434e.html</loc>
-    
-    <lastmod>2026-04-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://mestry7.github.io/posts/62e7bd5a.html</loc>
     
     <lastmod>2026-04-15</lastmod>
@@ -155,13 +146,6 @@
 
   
   <url>
-    <loc>https://mestry7.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2026-04-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://mestry7.github.io/tags/Markdown/</loc>
     <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -175,17 +159,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://mestry7.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>https://mestry7.github.io/categories/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://mestry7.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://mestry7.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <loc>https://mestry7.github.io/categories/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
